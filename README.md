@@ -3,7 +3,7 @@
 ## About Me
 Computer Science graduate from University of Maryland  
 Passionate about building scalable systems and low-level programming  
-Currently working on Redis-compatible databases
+Currently working on Redis-compatible databases and WebAssembly projects  
 Based in Baltimore, MD
 
 ## Tech Stack
@@ -13,8 +13,8 @@ Based in Baltimore, MD
 
 ## Featured Projects
 - **[Redis Clone](https://github.com/johnt0/redis-clone)** - In-memory database with RESP protocol in C++
-- **[OAuth2 Auth Service](https://github.com/johnt0/oauth-service)** - Secure authentication microservice with JWT
-- **[WASM Image Converter](https://github.com/johnt0/wasm-image-converter)** - Client-side image processing with Rust/WebAssembly
+- **[OAuth2 Auth Service](https://github.com/johnt0/oauth)** - Secure authentication microservice with JWT
+- **[WASM Image Converter](https://github.com/johnt0/image-converter)** - Client-side image processing with Rust/WebAssembly
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/johningto)
