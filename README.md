@@ -3,7 +3,7 @@
 ## About Me
 Computer Science graduate from University of Maryland  
 Passionate about building scalable systems and low-level programming  
-Currently working on Redis-compatible databases and WebAssembly projects  
+Currently working on Redis-compatible databases
 Based in Baltimore, MD
 
 ## Tech Stack
